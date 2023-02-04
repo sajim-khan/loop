@@ -15,12 +15,5 @@ while(chickenRoast < 7){
     //console.log(chickenRoast);
 }
 
-// var chickenRoast = 0;
-// while(chickenRoast < 7){
-//     console.log('Roast den please!!')
-//     console.log(chickenRoast);
-//     chickenRoast += 1;
-//     //console.log(chickenRoast);
-// }
 
 

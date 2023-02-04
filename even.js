@@ -11,8 +11,3 @@ for (var i = 0; i < 10; i += 2){
     console.log('Roast den please!!');
 }
 
-// // even in for loop
-// for (var i = 0; i < 10; i += 2){
-//     console.log(i);
-//     console.log('Roast den please!!');
-// }
