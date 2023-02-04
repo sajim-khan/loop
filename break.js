@@ -23,3 +23,4 @@ for (var i = 0; i < tableItems.length; i++){
     }
     console.log(item);
 }
+
