@@ -1,3 +1,5 @@
+//Grading system solution 
+
 // My grade
 var myScore = 85;
 if (myScore >= 80){
